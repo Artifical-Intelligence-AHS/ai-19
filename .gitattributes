@@ -2,3 +2,8 @@
 multi-obj-tracker-yolo.zip filter=lfs diff=lfs merge=lfs -text
 ID.zip filter=lfs diff=lfs merge=lfs -text
 IMAGE_AI.zip filter=lfs diff=lfs merge=lfs -text
+CafeterAI/Cafeteria.zip filter=lfs diff=lfs merge=lfs -text
+CafeterAI/exampleVideos filter=lfs diff=lfs merge=lfs -text
+CafeterAI/exampleVideos/Video filter=lfs diff=lfs merge=lfs -text
+CafeterAI/exampleVideos/FINAL.gif filter=lfs diff=lfs merge=lfs -text
+CafeterAI/exampleVideos/FINAL.mp4 filter=lfs diff=lfs merge=lfs -text
